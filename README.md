@@ -1,4 +1,4 @@
-# Literature Review of Malware AI
+# Literature Review Template
 
 If you have read a paper, do the following:
 - Find a unique name for the paper. This can be in terms of the novel algorithm proposed or the name of the main article author
